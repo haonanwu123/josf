@@ -1,0 +1,29 @@
+{
+  "baseUrl" : null,
+  "activeEnvironmentId" : null,
+  "webAUTPreferences" : {
+    "browser" : "Remote Chrome",
+    "stopWhenElementNotFound" : false
+  },
+  "securitySettings" : {
+    "certificateSettings" : {
+      "storePath" : "C:\\2.13\\JOSF\\api\\bin\\jdk8u312-b07\\jre\\lib\\security\\cacerts",
+      "storePassword" : "changeit",
+      "storeType" : "jks",
+      "sslCheckingDisabled" : false
+    },
+    "proxySettings" : {
+      "proxyHost" : null,
+      "proxyPort" : 8080,
+      "proxyUsername" : null,
+      "proxyPassword" : null,
+      "isEnabled" : false,
+      "isEnabledForDriverDownload" : false,
+      "isEnabledForBrowserProxy" : false,
+      "isEnabledForAPIRequests" : false,
+      "useCredentials" : false,
+      "autoDetect" : false
+    }
+  },
+  "licence" : "ROC Mondriaan - periode 1\r\nAYd9NsyJ6/XiMp223ie/ZCEB0xnQ4Vfl2b/vntvzBX4zy7YbB4t5tcOaDdDMMqS1lGU22slMXfll\r\nWjrudC1e3M+b+jI2M22Vhf4VHY8ctV4yog8dEbOJJs1gJJKDcvUHENeC8pPcgNdfq5FsuqjGdQ=="
+}
